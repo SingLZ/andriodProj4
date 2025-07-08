@@ -35,9 +35,9 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+[![Video Title](http://img.youtube.com/vi/LjaP8OcweE0/0.jpg)](https://www.youtube.com/watch?v=LjaP8OcweE0)
 
-GIF created with **your chosen GIF tool**
+GIF created with **Youtube**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
